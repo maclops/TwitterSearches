@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwiterSearches</string>
+    <string name="buscas_etiquetadas">Buscas Etiquetadas</string>
+    <string name="tag_your_query">Tag your query</string>
+    <string name="enter_twitter_search_query_here">Enter Twitter search query here</string>
+    <string name="touch_this_button_to_save_your_tagged_search">Touch this button to save your tagged search</string>
+    <string name="enter_twitter_search_query_here">Enter Twitter search query here</string>
+    <string name="tag_your_query">Tag your query</string>
+    <string name="touch_this_button_to_save_your_tagged_search">Touch this button to save your tagged search</string>
+    <string name="tagged_searches">Tagged Searches</string>
+</resources>
